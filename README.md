@@ -26,3 +26,5 @@ To switch between branches
 ```
 git checkout branchname
 ```
+
+Git is fun.
